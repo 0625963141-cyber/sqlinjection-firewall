@@ -1,0 +1,37 @@
+### Étape 2 : Utiliser GitHub Pages
+
+1. **Créer une documentation avec GitHub Pages** :
+   - Allez dans les paramètres de votre dépôt.
+   - Activez GitHub Pages en choisissant la branche `main` ou `master` et le dossier `/docs` ou `/` si votre documentation est à la racine.
+
+2. **Ajouter un site statique pour la documentation** :
+   - Créez des fichiers markdown (`.md`) dans un dossier `docs` pour une documentation plus détaillée.
+   - Incluez des informations supplémentaires, des guides, et des captures d'écran.
+
+### Étape 3 : Promouvoir votre projet
+
+1. **Partager sur les réseaux sociaux** :
+   - Partagez votre projet sur des plateformes comme Twitter, LinkedIn, Reddit, et des forums spécialisés dans la programmation et la sécurité.
+
+2. **Écrire un article de blog** :
+   - Rédigez un article de blog détaillé expliquant votre projet, ses fonctionnalités, et son utilité.
+   - Publiez-le sur des plateformes comme Medium, Dev.to, ou votre propre blog.
+
+3. **Participer à des forums et communautés** :
+   - Participez à des discussions sur des forums comme Stack Overflow, Reddit, et des groupes de discussion liés à la sécurité informatique.
+
+### Étape 4 : Indexation par les moteurs de recherche
+
+1. **S'inscrire à Google Search Console** :
+   - Ajoutez votre site GitHub Pages à Google Search Console pour suivre son indexation et ses performances.
+   - Soumettez un sitemap (vous pouvez utiliser des outils en ligne pour générer un sitemap de votre site GitHub Pages).
+
+### Étape 5 : Utiliser des badges et des liens externes
+
+1. **Ajouter des badges au README.md** :
+   - Utilisez des badges pour afficher des informations comme les dernières versions, les tests de construction, etc. Vous pouvez générer des badges sur des sites comme [Shields.io](https://shields.io/).
+
+2. **Obtenir des liens externes** :
+   - Demandez à d'autres développeurs et blogueurs de mentionner et de lier votre projet sur leurs sites et blogs.
+
+En suivant ces étapes, vous améliorerez la visibilité de votre projet sur GitHub et augmenterez ses chances d'apparaître dans les résultats de recherche Google.
